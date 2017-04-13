@@ -84,6 +84,7 @@
                 "item-type": "folder",
                 "item-code": "Module_01-_Learning_Basic_Skills_module/Getting_Started_with_Excel/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -136,6 +137,7 @@
                 "item-type": "folder",
                 "item-code": "Module_01-_Learning_Basic_Skills_module/How_to_Enter_Text_and_Select_a_Cell/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -188,6 +190,7 @@
                 "item-type": "folder",
                 "item-code": "Module_01-_Learning_Basic_Skills_module/Using_Auto_Fill_and_Keyboard_Shortcuts/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -240,6 +243,7 @@
                 "item-type": "folder",
                 "item-code": "Module_01-_Learning_Basic_Skills_module/Entering_Numbers/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -292,6 +296,7 @@
                 "item-type": "folder",
                 "item-code": "Module_01-_Learning_Basic_Skills_module/Printing_a_Section_of_a_Worksheet/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -344,6 +349,7 @@
                 "item-type": "folder",
                 "item-code": "Module_01-_Learning_Basic_Skills_module/Grouping_Worksheets_for_Editing/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -396,6 +402,7 @@
                 "item-type": "folder",
                 "item-code": "Module_01-_Learning_Basic_Skills_module/Freezing_and_Unfreezing_Panes/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -470,6 +477,7 @@
                 "item-type": "folder",
                 "item-code": "Module_02_-_Using_Excel_Functions/Performing_basic_calculation/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -522,6 +530,7 @@
                 "item-type": "folder",
                 "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MEDIAN_Function/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -574,6 +583,7 @@
                 "item-type": "folder",
                 "item-code": "Module_02_-_Using_Excel_Functions/Using_the_MIN_and_MAX_Functions/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -626,6 +636,7 @@
                 "item-type": "folder",
                 "item-code": "Module_02_-_Using_Excel_Functions/Using_the_COUNTIF_Function/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -678,6 +689,7 @@
                 "item-type": "folder",
                 "item-code": "Module_02_-_Using_Excel_Functions/Using_the_IF_Function/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -730,6 +742,7 @@
                 "item-type": "folder",
                 "item-code": "Module_02_-_Using_Excel_Functions/Using_the_SUMIF_Function/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -804,6 +817,7 @@
                 "item-type": "folder",
                 "item-code": "Module_03_-_Use_of_Charts/Calculating_Values_for_a_Pie_Chart/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -856,6 +870,7 @@
                 "item-type": "folder",
                 "item-code": "Module_03_-_Use_of_Charts/Creating_a_Pie_Chart_and_Moving_a_Chart_to_a_Chart_Sheet/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -908,6 +923,7 @@
                 "item-type": "folder",
                 "item-code": "Module_03_-_Use_of_Charts/Rotating_a_Pie_Chart_by_Changing_the_Angle_of_the_First_Slice/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -960,6 +976,7 @@
                 "item-type": "folder",
                 "item-code": "Module_03_-_Use_of_Charts/Inserting_Multiple_Rows_and_Creating_a_Line_Chart/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -1012,6 +1029,7 @@
                 "item-type": "folder",
                 "item-code": "Module_03_-_Use_of_Charts/Formatting_Axes_in_a_Line_Chart/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -1086,6 +1104,7 @@
                 "item-type": "folder",
                 "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_on_Multiple_Columns/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -1138,6 +1157,7 @@
                 "item-type": "folder",
                 "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Sorting_by_Using_a_Custom_List/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -1190,6 +1210,7 @@
                 "item-type": "folder",
                 "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Format_and_Value_Using_AutoFilter/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -1242,6 +1263,7 @@
                 "item-type": "folder",
                 "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Filtering_by_Custom_Criteria_Using_AutoFilter/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -1294,6 +1316,7 @@
                 "item-type": "folder",
                 "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Using_the_Name_Manager_and_Filtering_by_Using_Advanced_Criteria/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
@@ -1346,6 +1369,7 @@
                 "item-type": "folder",
                 "item-code": "Module_04_-_Use_of_Filtering_and_Sorting/Naming_Ranges_and_Extracting_Filtered_Rows/References",
                 "tracking": true,
+                "sub-type": "default",
                 "items": [
                   {
                     "name": "Methods",
