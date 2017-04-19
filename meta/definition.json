@@ -3073,6 +3073,9 @@
     "thumbnailsmall": "cover.jpg",
     "thumbnaillarge": "cover.jpg",
     "description": "",
-    "producttype": "courseware"
+    "producttype": "courseware",
+    "model": {
+      "type": "itlabgeneric"
+    }
   }
 }
