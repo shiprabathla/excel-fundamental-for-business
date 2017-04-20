@@ -3080,7 +3080,8 @@
          "video": {
            "url": "https://media.pearsoncmg.com/ph/bp/bp_video_links/2016/it/show_me_videos/GO!/Excel/Chapter_1/GO16.XL.01.1A.01.T1/GO16.XL.01.1A.01.T1.mp4"
           },
-          "description": ""
+          "description": "",
+          "learning-objectives": {}
       }
     },
     "test": {},
